@@ -1,2 +1,2 @@
-
-https://chymaskur.github.io/Panda-commerce-bootstrap/
+Link
+https://maskurchy.github.io/Panda-commerce-bootstrap/
