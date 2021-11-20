@@ -1,2 +1,2 @@
 Link
-https://maskurchy.github.io/Panda-commerce-bootstrap/
+https://maskurchy.github.io/Mashkur-eCommerce-Website/
